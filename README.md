@@ -18,7 +18,7 @@ The easy mode would include the hints/help above. A few breadcrumbs would help m
 
 The difficulty level is not a big issue — it is the initial traction. Once you get unstuck the first time or two, the learning flows smooth. Personally, I am extra grateful there was a workshop, because without it I would’ve been pretty lost on where to start. That guided push gave me direction and helped me engage with the platform better.
 
-One more suggestion — YieldCat is already looking great so far, but I think that the interface and web app could also benefit from a team or person working on additional polishing, enhancing visuals and usability. The core functionality is already very solid and great, and this would just elevate the experience to feel even more professional and intuitive on the surface level.
+One more suggestion, YieldCat is already looking great so far, but I think that the interface and web app could also benefit from a team or person working on additional polishing, enhancing visuals and usability. The core functionality is already very solid and great, and this would just elevate the experience to feel even more professional and intuitive on the surface level.
 
 All around, the platform is looking great and I think with time, and maybe with some help and a good team, it will keep evolving and be an amazing tool. 
 
