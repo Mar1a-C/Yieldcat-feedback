@@ -24,5 +24,5 @@ All around, the platform is looking great and I think with time, and maybe with 
 
 I’m applying for the internship at BeyondMachines because I admire its mission to make all around cybersecurity accessible, comprehensive, and actionable, as well as the idea behind YieldCat and its educational value for students, engineers and enthusiasts alike. I’d be honored to contribute ideas and young padawan perspectives to help improve the learning experience for others like me.
 
-Thank you very much for the opportunity. Kind regards, and May the Fourth be with you. 
+Thank you very much for the opportunity. Kind regards, and May the Fourth be with you.
 (This was written and submitted on May 4th.)
