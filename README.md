@@ -5,7 +5,7 @@ First and foremost, thank you for creating such a creative and challenging learn
 
 That being said, I’d be glad to suggest one thing that could potentially improve the learning curve for users who are newer to web app security or who don’t have a strong web development background yet. Many cybersecurity-focused college programs, are usually more heavily network oriented, and offer (in my opinion) very minimal intro to web-dev, often a single course, which is not enough to confidently explore web security (such is my experience too).
 
-### Beginner's help 
+#### Beginner's help 
 
 YieldCat has real-world flavor and minimal hand-holding, which is probably amazing for advanced learners. But for students in their 2nd–4th year, who may not yet be fully fluent in web dev (or who want to bridge the theory-practice gap), a gentle push in the right direction could help a lot. These could be:
 
